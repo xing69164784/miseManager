@@ -24,17 +24,20 @@
 
 ### 预编译版本
 
-从 [Releases](https://github.com/yourusername/mise-manager/releases) 页面下载对应平台的二进制文件。
+从 [Releases](https://github.com/xing69164784/miseManager/releases) 页面下载对应平台的二进制文件。
 
 ### 从源码构建
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/mise-manager.git
-cd mise-manager
+git clone https://github.com/xing69164784/miseManager.git
+cd miseManager
 
 # 安装依赖
 npm install
+
+# 切换到项目根目录
+cd ..
 
 # 开发模式运行
 wails3 dev
