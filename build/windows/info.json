@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "0.1.0"
+	},
+	"info": {
+		"0000": {
+			"ProductVersion": "0.1.0",
+			"CompanyName": "Xiaoyang",
+			"FileDescription": "A mise manager application",
+			"LegalCopyright": "© 2026, Xiaoyang",
+			"ProductName": "Mise Manager",
+			"Comments": "A mise manager application"
+		}
+	}
+}
